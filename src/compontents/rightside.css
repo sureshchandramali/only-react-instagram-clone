@@ -1,0 +1,81 @@
+.rightsidehome{
+    display: flex;
+    flex-direction: column;
+    /* border: 1px solid; */
+    padding-top: 30px;
+    width: 100%;
+}
+
+.topprofileright{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 80%;
+}
+
+.imagedivrightside{
+    width: 46px;
+    height: 46px;
+    border-radius: 100%;
+
+}
+.imagerightsideprofile{
+    width: 100%;
+    border-radius: 100%;
+}
+
+.usernameblock{
+display: flex;
+flex-direction: column;
+}
+
+.usernamerightside{
+    font-size: 14px;
+    font-weight: 500px;
+}
+
+.userfullname{
+    color: #999999;
+    font-size: 14px;
+}
+
+.switchbtn{
+    color: #1ea1f7;
+    font-weight: 600;
+    font-size: 14px;
+}
+
+.leftrightprofile{
+    display: flex;
+    gap: 20px;
+}
+
+.bottomrightside{
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    margin-top: 30px;
+}
+
+.suggestedblock{
+    display: flex;
+    justify-content: space-between;
+    color: #999999;
+    font-size: 14px;
+    font-weight: 500;
+
+}
+
+.followrightside{
+    display: flex;
+    flex-direction: column;
+    padding-top: 20px;
+    gap: 10px;
+}
+
+.topprofilerightbottomprofile{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+}
